@@ -1,0 +1,1 @@
+javascript:window.location.href=window.contextPath+"/login.jsp?os_destination="+window.encodeURIComponent(window.location.href)+"&os_username=admin&os_password=admin";
